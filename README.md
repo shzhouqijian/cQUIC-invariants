@@ -1,4 +1,4 @@
-# CQUIC-Invariants
+# cQUIC-invariants
 
 > QUIC's invariants layer in C++
 

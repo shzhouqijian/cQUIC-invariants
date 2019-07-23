@@ -1,4 +1,4 @@
-PROJECT(cquic)
+PROJECT(cquic-invariants)
 
 CMAKE_MINIMUM_REQUIRED(VERSION 3.14)
 
